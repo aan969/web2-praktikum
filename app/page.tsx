@@ -7,7 +7,7 @@ export default function Home() {
         Selamat Datang di Praktikum Web 2
       </h1>
       <p className="mt-4 text-gray-600">
-        Nama: [A Faid Nayara Pratama] — NIM: [52024351]
+        Nama: [Muh farhan] — NIM: [52024501]
       </p>
       <Link
         href="/about"
